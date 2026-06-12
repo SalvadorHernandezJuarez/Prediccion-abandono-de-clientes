@@ -70,19 +70,6 @@ numpy         → Operaciones numéricas
 matplotlib    → Visualizaciones
 scikit-learn  → Modelos de ML, preprocesamiento y métricas
 ```
-
----
-
-## 📁 Estructura del Proyecto
-
-```
-Prediccion-abandono-de-clientes/
-│
-├── ML.ipynb                  # Notebook principal con todo el análisis
-├── telecom_churn.csv         # Dataset de clientes
-└── README.md                 # Este archivo
-```
-
 ---
 
 ## Pipeline de Análisis
