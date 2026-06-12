@@ -56,7 +56,7 @@ Este proyecto construye un pipeline completo de Machine Learning que:
 
 ---
 
-## 🛠 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?logo=pandas)
