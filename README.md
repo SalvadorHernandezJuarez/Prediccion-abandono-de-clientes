@@ -1,6 +1,6 @@
 # 📉 Predicción de Abandono de Clientes (Customer Churn)
 
-> Modelo de Machine Learning para identificar clientes en riesgo de abandono en una empresa de telecomunicaciones, utilizando Regresión Logística y Random Forest.
+> Modelo de Machine Learning para identificar clientes en riesgo de abandono en una empresa de telecomunicaciones, utilizando Regresión Logística y Random Forest
 
 ---
 
